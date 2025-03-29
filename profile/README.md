@@ -1,12 +1,5 @@
-## Hi there 👋
+## 급
 
-<!--
+Geup(급) is an on-demand delivery service for university students living around campus to purchase goods that are needed but not available in their houses.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Geup delivers snacks to college students in 10 minutes. We use data to wholesale high demand/high margin products and deliver them directly to our customers using electric scooters and a student-driven workforce.
